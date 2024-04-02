@@ -1,0 +1,3 @@
+C:/Users/acer/AndroidStudioProjects/Final_app/gen-libs/src/main/cpp/TodoItem/CMakeFiles/TodoItem.dir
+C:/Users/acer/AndroidStudioProjects/Final_app/gen-libs/src/main/cpp/TodoItem/CMakeFiles/ALL_BUILD.dir
+C:/Users/acer/AndroidStudioProjects/Final_app/gen-libs/src/main/cpp/TodoItem/CMakeFiles/ZERO_CHECK.dir
